@@ -1,0 +1,19 @@
+.team {
+    border: 2px solid rgb(8, 8, 54);
+    margin-Bottom: 10px;
+    border-Radius: 5px;
+}
+
+
+
+.button1{
+    border: 2px solid rgb(213, 17, 210);
+    margin-left: 10px;
+    margin-bottom: 10px;
+    border-Radius: 6px;
+}
+.button2{
+    border: 2px solid rgb(236, 127, 10);
+    margin-bottom: 10px;
+    border-Radius: 6px;
+}

@@ -1,0 +1,27 @@
+
+.button1{
+    background-color: aqua;
+}
+.button2{
+    background-color: rgb(255, 0, 195);
+    margin-left: 10px;
+}
+.button3{
+    background-color: rgb(85, 19, 206);
+    margin-left: 10px;
+}
+.button4{
+    background-color: rgb(216, 231, 10);
+    margin-left: 10px;
+}
+
+.Count1{
+    background-color: rgb(4, 237, 89);
+    margin-bottom: 10px;
+}
+
+.Count2{
+    background-color: rgb(237, 86, 4);
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
